@@ -43,6 +43,9 @@ The dataset used in this project is an online retail dataset, with the following
     
 4. **Visualization**: 
     - Created visualizations such as scatter plots, heatmaps, and customer segmentation charts to provide insights into the customer segments.
+    - 
+## **Data Source**:  
+The dataset used for training and customer segmentation was downloaded from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail).
 
 ## Note:
 See the .ipynb file to understand better.
